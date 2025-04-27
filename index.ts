@@ -7,3 +7,5 @@ export const MONGO_COLLECTION_CREATE_ERROR = 's220s/mongo/collection/create/erro
 export const MONGO_COLLECTION_GET_ERROR = 's220s/mongo/collection/get/error';
 export const MONGO_INSERT_ONE_NOT_ACKNOWLEDGED = 's220s/mongo/insertOne/not-acknowledged';
 export { getUiText } from './getUiText';
+export { RespBr } from './types/RespBr';
+export { predefErr } from './utils/predefErr';
